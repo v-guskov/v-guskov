@@ -6,7 +6,7 @@ These days I'm exploring the world of data and modelling.
 
 
 ---
-### Recent projects (more comming...)
+### Recent projects 
 * **[glm-scorecard](https://github.com/v-guskov/glm-scorecard)** - Credit Risk Scorecard Development using GLM approach
 <img src="https://github.com/v-guskov/glm-scorecard/blob/main/figures/accounts-by-credit-score.png" alt="Accounts vs Credit Score plot" width="50%" />
 </div>
