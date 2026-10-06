@@ -1,7 +1,6 @@
 ### Hi, I'm Vlad! 
-#### Mathematics PhD 
 
-Background: I completed a PhD in Mathematics at KTH Royal Institute of Technology in the summer of 2026. My research area was Probability Theory and I specialized in rare events analysis for different stochastic systems.
+I completed a PhD in Mathematics at KTH Royal Institute of Technology in the summer of 2026. My research area was Probability Theory and I specialized in rare events analysis for different stochastic systems. You can find my thesis and recent research papers at v-guskov.github.io
 
 These days I'm exploring the world of data and modelling.
 
